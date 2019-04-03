@@ -1,0 +1,3 @@
+rootProject.name = 'clevershit_1914'
+
+include ':app'
